@@ -743,7 +743,7 @@
   \begin{center}
     \setlength\tabcolsep{1ex}
     \setlength{\extrarowheight}{0pt}
-    \begin{tabular*}{\linewidth}{@{\extracolsep{\fill}} R{\linewidth * \real{0.25}} L{\linewidth * \real{0.70}}}
+    \begin{tabular*}{\linewidth}{@{\extracolsep{\fill}} R{\linewidth * \real{0.35}} L{\linewidth * \real{0.55}}}
 }{%
     \end{tabular*}
   \end{center}
